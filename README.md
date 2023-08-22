@@ -20,9 +20,11 @@
 **Задание 3.**
 
 Записали ключи в memcached
+
 ![img](https://github.com/vadimtsvetkov/Databases-HW_11-2/blob/main/stored_keys.jpg)
 
 Спустя 5 секунд ключи удалились
+
 ![img](https://github.com/vadimtsvetkov/Databases-HW_11-2/blob/main/end-keys.jpg)
 
 **Задание 4.**
